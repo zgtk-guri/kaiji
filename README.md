@@ -5,8 +5,9 @@
 ## 開発者
 * @zgtk-guri
 * @kiotaku
-* amedama
-* ...and 2 anonymous developers
+* @hiroakikawa
+* @KinoshitaYstr
+* @mugi111
 
 ## 写真
 * [2016年度の写真](./photos2016/photos2016.md)
@@ -18,11 +19,11 @@ Grpcでの通信プロトコルの定義ファイル。
 Androidタブレット用のゲーム進行クライアント
 ### kaiji-grpc-server (in private) by @kiotaku
 ゲームサーバ。主にポイント等の管理とゲームルールに即した判定を行う。
-### kaiji-baccarat-client (in private) by anonymous developer
+### kaiji-baccarat-client (in private) by @hiroakikawa
 バカラ表示用クライアント。Unity使用。操作はAndroidアプリより。
-### kaiji-roulette-client (in private) by anonymous developer
+### kaiji-roulette-client (in private) by @hiroakikawa
 ルーレットクライアント。Unity使用。水平面投影向け。
-### ホームページ (in private) by amedama
+### [ホームページ](https://github.com/KinoshitaYstr/kaiji2016) by @KinoshitaYstr
 公式ホームページ。文化祭期間中のみ公開。
 
 ## 今年の予定
